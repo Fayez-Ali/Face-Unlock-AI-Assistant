@@ -1,7 +1,7 @@
 # Face-Unlock-AI-Assistant
 
 
-Sure, here's a breakdown of the project along with a detailed description of each module:
+A detailed description of each module:
 
 1. **Face Unlock Module**:
    - This module is responsible for recognizing the authorized user's face using the LBPH (Local Binary Patterns Histograms) Face Recognizer.
